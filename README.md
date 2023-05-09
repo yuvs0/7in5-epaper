@@ -1,13 +1,16 @@
 # 7in5-epaper
-Modified drivers for the waveshare e-paper display (7.5in V2)
+Modified drivers for the waveshare e-paper display (7.5in V2) - VS Code and Arduino IDE only.
 
 These drivers provide functionality for the 7.5in V2 e-paper display from Waveshare that are not available in the official library.
 Official Waveshare e-paper drivers can be found at https://github.com/waveshare/e-Paper.
 
-Unlocked features include:
+## Unlocked features include:
 - Partial window updates
 - Quick updates (using a modified LUT as described here https://www.youtube.com/watch?v=MsbiO8EAsGw&t=1027s)
 - Quick partial updates
 
-Features I am working on:
+## Features I am working on:
 - Support for variable-width fonts (currently only monospace fonts are supported)
+
+## How to use:
+Simply replace the files with the ones of the same name in the `/utility` folder in the library `src` folder.
