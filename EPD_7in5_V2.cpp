@@ -1,11 +1,11 @@
 /*****************************************************************************
-* | File      	:	EPD_7in5.c
-* | Author      :   Waveshare team
-* | Function    :   Electronic paper driver
-* | Info        :
+* | File      	: EPD_7in5.c
+* | Author      : Waveshare team (modified by @yuvs0)
+* | Function    : Electronic paper driver
+* | Info        : EPD driver
 *----------------
-* |	This version:   V2.0
-* | Date        :   2018-11-09
+* | This version:   V2.1
+* | Date        :   2023-04-02
 * | Info        :
 *****************************************************************************
 #
